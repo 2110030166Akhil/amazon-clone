@@ -23,7 +23,7 @@ This project is a simplified clone of the Amazon website, created solely using H
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/amazon-clone.git
+   git clone https://github.com/2110030166Akhil/amazon-clone
    ```
 2. Navigate to the project directory:
    ```
